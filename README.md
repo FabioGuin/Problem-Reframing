@@ -153,7 +153,7 @@ Mind mapping: rappresenta graficamente tutte le cause possibili del timeout di u
 
 - **SCAMPER technique**  
   Guida pratica alla tecnica SCAMPER:  
-  [https://www.mindtools.com/askarticle/scamper](https://www.mindtools.com/askarticle/scamper)
+  [https://en.wikipedia.org/wiki/SCAMPER](https://en.wikipedia.org/wiki/SCAMPER) | [https://www.6sigma.us/lean-tools/scamper-technique/](https://www.6sigma.us/lean-tools/scamper-technique/) | [https://careerfoundry.com/en/blog/ux-design/scamper-technique/](https://careerfoundry.com/en/blog/ux-design/scamper-technique/)
 
 - **HBR – Reframing the Problem**  
   Harvard Business Review, articolo sul reframing nella pratica manageriale:  
