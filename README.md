@@ -173,13 +173,13 @@ Mind mapping: rappresenta graficamente tutte le cause possibili del timeout di u
   Ottimo per reframing continuo in team agile.
 
 - **Mind Mapping for Developers**  
-  [https://www.smashingmagazine.com/2011/08/mind-mapping-for-web-developers/](https://www.smashingmagazine.com/2011/08/mind-mapping-for-web-developers/)
+  [https://en.wikipedia.org/wiki/Mind_map](https://en.wikipedia.org/wiki/Mind_map) | [https://www.atlassian.com/team-playbook/plays/mind-mapping](https://www.atlassian.com/team-playbook/plays/mind-mapping)
 
 - **Laravel CI/CD tutorials**  
-  [https://laravel-news.com/tag/ci-cd](https://laravel-news.com/tag/ci-cd)
+  [https://docs.github.com/en/actions/guides/about-continuous-integration](https://docs.github.com/en/actions/guides/about-continuous-integration) | [https://laravel.com/docs/deployment](https://laravel.com/docs/deployment) | [https://www.atlassian.com/continuous-delivery](https://www.atlassian.com/continuous-delivery)
 
-- **Blog: “Reframing Problems in Web Development”**  
-  [https://css-tricks.com/problem-reframing/](https://css-tricks.com/problem-reframing/)
+- **Blog: "Reframing Problems in Web Development"**  
+  [https://www.infoq.com/articles/problem-reframing-method/](https://www.infoq.com/articles/problem-reframing-method/) | [https://uxplanet.org/a-guide-to-problem-framing-ae58713364ec](https://uxplanet.org/a-guide-to-problem-framing-ae58713364ec)
 
 ---
 
