@@ -147,9 +147,9 @@ Mind mapping: rappresenta graficamente tutte le cause possibili del timeout di u
 
 ## Fonti e Riferimenti
 
-- **Edward de Bono – “Six Thinking Hats”**  
+- **Edward de Bono – "Six Thinking Hats"**  
   La metodologia dei cappelli per ampliare la prospettiva nel problem solving:  
-  [https://www.debonogroup.com/services/core-programs/six-thinking-hats/](https://www.debonogroup.com/services/core-programs/six-thinking-hats/)
+  [https://www.debonogroup.com/services/core-programs/six-thinking-hats/](https://www.debonogroup.com/services/core-programs/six-thinking-hats/) | [https://en.wikipedia.org/wiki/Six_Thinking_Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
 
 - **SCAMPER technique**  
   Guida pratica alla tecnica SCAMPER:  
@@ -157,7 +157,7 @@ Mind mapping: rappresenta graficamente tutte le cause possibili del timeout di u
 
 - **HBR – Reframing the Problem**  
   Harvard Business Review, articolo sul reframing nella pratica manageriale:  
-  [https://hbr.org/2017/09/reframe-the-problem](https://hbr.org/2017/09/reframe-the-problem)
+  [https://stvp.stanford.edu/articles/shift-your-lens-the-power-of-re-framing-problems](https://stvp.stanford.edu/articles/shift-your-lens-the-power-of-re-framing-problems) | [https://medium.com/nyc-design/reframing-the-problem-200f6c966dfc](https://medium.com/nyc-design/reframing-the-problem-200f6c966dfc)
 
 - **IDEO – How to Reframe Your Problems to Unlock Innovation**  
   Metodo design thinking per il reframing:  
@@ -166,8 +166,8 @@ Mind mapping: rappresenta graficamente tutte le cause possibili del timeout di u
 - **“Reframing Problems in Software Development” – IEEE Software Magazine**  
   [https://ieeexplore.ieee.org/document/7859317](https://ieeexplore.ieee.org/document/7859317)
 
-- **“The Five Whys Technique” – Lean Enterprise Institute**  
-  [https://www.lean.org/lexicon/five-why-analysis](https://www.lean.org/lexicon/five-why-analysis)
+- **"The Five Whys Technique" – Lean Enterprise Institute**  
+  [https://www.lean.org/lexicon/five-why-analysis](https://www.lean.org/lexicon/five-why-analysis) | [https://en.wikipedia.org/wiki/Five_whys](https://en.wikipedia.org/wiki/Five_whys)
 
 - **Libro: “Agile Retrospectives: Making Good Teams Great” – Esther Derby, Diana Larsen**  
   Ottimo per reframing continuo in team agile.
